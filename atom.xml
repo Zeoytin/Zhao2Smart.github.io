@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhao2smart.github.io/"/>
-  <updated>2019-08-16T09:31:14.296Z</updated>
+  <updated>2019-08-22T05:21:24.240Z</updated>
   <id>https://zhao2smart.github.io/</id>
   
   <author>
@@ -21,41 +21,20 @@
     <link href="https://zhao2smart.github.io/2019/08/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>https://zhao2smart.github.io/2019/08/16/我的第一篇文章/</id>
     <published>2019-08-16T09:14:01.000Z</published>
-    <updated>2019-08-16T09:31:14.296Z</updated>
+    <updated>2019-08-22T05:21:24.240Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>####### 没有七级</p><a id="more"></a><h4 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h4><p>这是第一段内容</p><hr><p>这是第二段内容</p><blockquote><p>区块引用</p><blockquote><p>嵌套</p></blockquote></blockquote><p><em>斜体</em></p><p><strong>加粗</strong></p><h4 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h4><ul><li>第一项<ul><li>子项</li></ul></li><li>第二项</li><li>第三项</li></ul><ul><li>+也可以</li><li>-也可以</li></ul><h4 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h4><ol><li>列表1<ol><li>列表1.1</li><li>列表1.2<ol><li>列表1.2.1</li><li>列表1.2.2</li></ol></li></ol></li><li>列表2</li><li>列表3</li></ol><h4 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h4><p><a href="http://note.youdao.com" target="_blank" rel="noopener">有道云笔记官网</a></p><h4 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h4><p><img src="http://note.youdao.com/favicon.ico" alt="有道云笔记"></p><h4 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h4><table><thead><tr><th>省</th><th>市</th><th>区</th></tr></thead><tbody><tr><td>xx省</td><td>xx市</td><td>xx区</td></tr><tr><td>江苏</td><td>南京</td><td>玄武区</td></tr></tbody></table><h4 id="代办事项"><a href="#代办事项" class="headerlink" title="代办事项"></a>代办事项</h4><ul><li><input checked disabled type="checkbox"> 已完成1<ul><li><input checked disabled type="checkbox"> 已完成2</li></ul></li><li><input disabled type="checkbox"> 代办1</li><li><input disabled type="checkbox"> 代办2</li></ul><h4 id="代码高亮"><a href="#代码高亮" class="headerlink" title="代码高亮"></a>代码高亮</h4><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">system.out.println(<span class="string">"hello World!"</span>)</span><br></pre></td></tr></table></figure><h4 id="符号-起标记作用"><a href="#符号-起标记作用" class="headerlink" title="符号``起标记作用"></a>符号``起标记作用</h4><p><code>Ctrl+v</code></p>]]></content>
+    <content type="html"><![CDATA[<p>第一次搭建hexo的博客，先学习一下markdown语法来记录。</p><a id="more"></a><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>####### 没有七级</p><h4 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h4><p>这是第一段内容</p><hr><p>这是第二段内容</p><blockquote><p>区块引用</p><blockquote><p>嵌套</p></blockquote></blockquote><p><em>斜体</em></p><p><strong>加粗</strong></p><h4 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h4><ul><li>第一项<ul><li>子项</li></ul></li><li>第二项</li><li>第三项</li></ul><ul><li>+也可以</li><li>-也可以</li></ul><h4 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h4><ol><li>列表1<ol><li>列表1.1</li><li>列表1.2<ol><li>列表1.2.1</li><li>列表1.2.2</li></ol></li></ol></li><li>列表2</li><li>列表3</li></ol><h4 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h4><p><a href="http://note.youdao.com" target="_blank" rel="noopener">有道云笔记官网</a></p><h4 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h4><p><img src="http://note.youdao.com/favicon.ico" alt="有道云笔记"></p><h4 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h4><table><thead><tr><th>省</th><th>市</th><th>区</th></tr></thead><tbody><tr><td>xx省</td><td>xx市</td><td>xx区</td></tr><tr><td>江苏</td><td>南京</td><td>玄武区</td></tr></tbody></table><h4 id="代办事项"><a href="#代办事项" class="headerlink" title="代办事项"></a>代办事项</h4><ul><li><input checked disabled type="checkbox"> 已完成1<ul><li><input checked disabled type="checkbox"> 已完成2</li></ul></li><li><input disabled type="checkbox"> 代办1</li><li><input disabled type="checkbox"> 代办2</li></ul><h4 id="代码高亮"><a href="#代码高亮" class="headerlink" title="代码高亮"></a>代码高亮</h4><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">system.out.println(<span class="string">"hello World!"</span>)</span><br></pre></td></tr></table></figure><h4 id="符号-起标记作用"><a href="#符号-起标记作用" class="headerlink" title="符号``起标记作用"></a>符号``起标记作用</h4><p><code>Ctrl+v</code></p>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;二级标题&quot;&gt;&lt;/a&gt;二级标题&lt;/h2&gt;&lt;h3 id=&quot;三级标题&quot;&gt;&lt;a href=&quot;#三级标题&quot; class=&quot;headerlink&quot; title=&quot;三级标题&quot;&gt;&lt;/a&gt;三级标题&lt;/h3&gt;&lt;h4 id=&quot;四级标题&quot;&gt;&lt;a href=&quot;#四级标题&quot; class=&quot;headerlink&quot; title=&quot;四级标题&quot;&gt;&lt;/a&gt;四级标题&lt;/h4&gt;&lt;h5 id=&quot;五级标题&quot;&gt;&lt;a href=&quot;#五级标题&quot; class=&quot;headerlink&quot; title=&quot;五级标题&quot;&gt;&lt;/a&gt;五级标题&lt;/h5&gt;&lt;h6 id=&quot;六级标题&quot;&gt;&lt;a href=&quot;#六级标题&quot; class=&quot;headerlink&quot; title=&quot;六级标题&quot;&gt;&lt;/a&gt;六级标题&lt;/h6&gt;&lt;p&gt;####### 没有七级&lt;/p&gt;
+      &lt;p&gt;第一次搭建hexo的博客，先学习一下markdown语法来记录。&lt;/p&gt;
     
     </summary>
+    
+      <category term="语法" scheme="https://zhao2smart.github.io/categories/%E8%AF%AD%E6%B3%95/"/>
     
     
       <category term="markdown" scheme="https://zhao2smart.github.io/tags/markdown/"/>
-    
-      <category term="IT技术" scheme="https://zhao2smart.github.io/tags/IT%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://zhao2smart.github.io/2019/08/14/hello-world/"/>
-    <id>https://zhao2smart.github.io/2019/08/14/hello-world/</id>
-    <published>2019-08-14T05:57:27.974Z</published>
-    <updated>2019-08-14T05:57:27.974Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
     
   </entry>
   
